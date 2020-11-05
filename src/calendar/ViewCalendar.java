@@ -54,9 +54,6 @@ public class ViewCalendar {
 			}
 				ViewCalendar view = new ViewCalendar();
 				view.printSamlpeCalendar(2017, month);
-
-
-
 		}
 	}
 
